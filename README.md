@@ -1,0 +1,2 @@
+# NEUGATE-WEB
+職業訓練校で作成したHTMLやCSS
