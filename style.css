@@ -1,0 +1,56 @@
+html{
+    font-size: 100%;
+    font-family: 'Hina Mincho', serif;
+}
+
+body {
+    background-color: thistle;
+    background-image: url(neugate.png);
+    background-repeat: no-repeat;
+    /* background-position: 30px 80px; */
+}
+
+h1 {
+    color: red;
+    font-size: 2rem;
+    font-family:'Times New Roman', Times, serif;
+    background-color: violet;
+    width: 50%;
+    height: 300px;
+    /* margin-top: 150px;
+    margin-left: 100px; */
+    /* margin: 0px; */
+    padding: 50px;
+    border-width: 10px;
+    border-style: dashed;
+    border-color: tomato;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Hina Mincho', serif;
+    border: 5px dotted #add8e6;
+}
+
+p {
+    line-height: 1.5;
+}
+
+ul {
+    list-style-type: square;
+    list-style-image: url(spoon.png);
+}
+
+ol {
+    list-style: hiragana;
+    list-style-position: inside;
+}
+
+#footer {
+    font-size: 0.5em;
+    color: gray;
+}
+
+.blue {
+    color: blue;
+}
